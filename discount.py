@@ -1,6 +1,7 @@
 #wap to give 10% off only who is
 # purchasing in credit card and min 3 product should
 # purchase and each product price should be more than 500
+
 mode=eval(input("enter the Payment--mode "))
 if mode=="credit-card":
     product=eval(input("enter the Product Number"))
